@@ -1,0 +1,6 @@
+module Pods_SFHKit {
+  umbrella header "Pods-SFHKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
